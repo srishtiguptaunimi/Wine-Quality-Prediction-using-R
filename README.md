@@ -18,4 +18,4 @@ The objectives of this project are as follows:
 To experiment with different classification methods to see which yields the highest accuracy
 To determine which features are the most indicative of a good quality wine
 
-We have also performed Clustering Analysis to understand are there any features which are forming clusters which could help us to understand which features leads to higher quality of wine
+We have also performed Clustering Analysis to understand are there any features which are forming clusters and which could help us to understand which features leads to higher quality of wine
